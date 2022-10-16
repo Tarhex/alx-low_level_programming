@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//writing to stdout
+/* writing to stdout */
 int main() 
 {
 
