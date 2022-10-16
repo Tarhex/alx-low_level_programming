@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* writing to stdout */
-int main(void)
+int main(void) //returns void
 {
 
 	puts("\"Programming is like building a multilingual puzzle");
