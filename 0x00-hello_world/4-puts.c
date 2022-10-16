@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-* main - Entry point
+* Main: Entry point
 * Description: Print to out put suing puts
 * Result: Always (0) success
 */
