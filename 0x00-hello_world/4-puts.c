@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
 * main - Entry point
 * Description: Print to out put suing puts
 * Result: Always (0) success
