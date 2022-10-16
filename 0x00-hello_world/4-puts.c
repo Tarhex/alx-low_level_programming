@@ -2,7 +2,7 @@
 
 /*
 * main - Entry point
-* Description - print to out put suing puts
+* Description: Print to out put suing puts
 * Result: Always (0) success
 */
 int main(void) /* returns void */
