@@ -2,10 +2,12 @@
 
 /**
 * main - Entry point
+*
 * Description: Print to out put suing puts
-* Result: Always (0) success
+*
+* Return: (0) nuccess
 */
-int main(void) /* returns void */
+int main(void)
 {
 
 	puts("\"Programming is like building a multilingual puzzle");
